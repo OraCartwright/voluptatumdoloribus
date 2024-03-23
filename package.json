@@ -1,0 +1,35 @@
+{
+  "name": "voluptatumdoloribus",
+  "version": "1.0.0",
+  "description": "List of JavaScript types",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraCartwright/voluptatumdoloribus.git"
+  },
+  "author": "IssacMayert",
+  "main": "js-types.json",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "js-types.json"
+  ],
+  "keywords": [
+    "sed",
+    "javascript",
+    "ecmascript",
+    "builtin",
+    "types",
+    "molestiae",
+    "voluptatem",
+    "ad",
+    "et",
+    "soluta"
+  ],
+  "devDependencies": {
+    "ava": "^1.0.1",
+    "xo": "^0.23.0"
+  },
+  "homepage": "https://github.com/OraCartwright/voluptatumdoloribus.git"
+}
